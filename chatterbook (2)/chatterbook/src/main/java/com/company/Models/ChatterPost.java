@@ -1,4 +1,4 @@
-package Jar;
+package com.company.Models;
 
 public class ChatterPost {
     private String text;

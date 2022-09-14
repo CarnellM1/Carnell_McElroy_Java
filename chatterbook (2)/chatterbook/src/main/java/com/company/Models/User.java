@@ -1,4 +1,6 @@
-package Jar;
+package com.company.Models;
+
+import com.company.Models.ChatterPost;
 
 import java.util.ArrayList;
 import java.util.List;
